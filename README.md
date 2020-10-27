@@ -5,7 +5,11 @@ Inovation One e a empresa Everis</p>
 
 <p>Você pode consultar a ementa do curso no link abaixo.</p>
 
-<a href="https://web.digitalinnovation.one/track/everis-fullstack-developer">
+<ul>
+    <li><a href="https://web.digitalinnovation.one/track/everis-fullstack-developer">Everis FullStack Developer</a></li>
+</ul>
+
+
 
 <p>O projeto foi desenvolvido utilizando algumas imagens png encontradas na internet,
 e teve o objetivo de fixar alguns conceitos prático utilizando flexbox e responsividade da página. </p>
